@@ -1,0 +1,7 @@
+docs_dir: md
+site_dir: docs
+site_name: La meua pàgina personal
+site_url: https://guivifra.github.io
+nav:
+    - Home: index.md
+    - About: about.md
