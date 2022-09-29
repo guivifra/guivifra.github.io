@@ -5,4 +5,5 @@ site_url: https://guivifra.github.io
 theme: readthedocs
 nav:
     - Home: index.md
+    - Docker: docker.md
     - About: about.md
